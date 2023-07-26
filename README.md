@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sooraj-pixel
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning computer programming.
+- 💞️ I’m looking to collaborate on information technology world.
+- 📫 you can get me through my email bssyalsuraj@gmail.com
